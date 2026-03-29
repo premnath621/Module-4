@@ -25,3 +25,13 @@ result = merge(dict1, dict2)
 
 # Output
 print("Merged dictionary:", result)
+```
+
+## Output:
+
+<img width="524" height="201" alt="image" src="https://github.com/user-attachments/assets/1a31b976-f7d4-44aa-8ab0-56a15768df10" />
+
+
+## Result:
+
+Thus, the Python program to merge two dictionaries using the ** unpacking operator was successfully executed and verified.
