@@ -26,3 +26,13 @@ r = float(input("Enter radius: "))
 obj = cse()
 
 # Call method
+obj.mech(r)
+```
+
+## Output:
+
+<img width="487" height="257" alt="image" src="https://github.com/user-attachments/assets/a42e81bb-2e5a-4430-9d4c-79fc00c99af7" />
+
+## Result:
+
+Thus, the Python program to calculate the area of a circle using a class and object was successfully executed and verified.
